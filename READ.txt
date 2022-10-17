@@ -1,0 +1,6 @@
+Paste Registered.key to installed dir
+ex: C:\Users\SXT\AppData\Local\Markdown Monster [change /SXT/ with your pc username]
+
+DOWNLOADS:
+https://markdownmonster.west-wind.com/download
+https://store.west-wind.com/products/developer-tools
